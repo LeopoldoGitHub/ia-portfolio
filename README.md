@@ -1,4 +1,4 @@
-# 🤖 Portafolio IA — Leopold Flores
+# 🤖 Portafolio IA — Leopoldo Flores
 
 Repositorio índice de mis proyectos de inteligencia artificial aplicada,
 agentes autónomos y automatización con LLMs.
