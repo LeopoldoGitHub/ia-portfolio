@@ -12,6 +12,7 @@ agentes autónomos y automatización con LLMs.
 | 03 | [asistente-datos-petroleros](https://github.com/leopoldogithub/asistente-datos-petroleros) | Consulta en lenguaje natural sobre historial de pozos petroleros (RAG + Text-to-SQL) | ⏳ Próximo | Python, LangChain, PostgreSQL, RAG |
 | 04 | [agente-dashboards-bi](https://github.com/leopoldogithub/agente-dashboards-bi) | Agente que genera dashboards automáticamente en Looker Studio y Power BI | ⏳ Próximo | Python, MCP, Looker API, Power BI API |
 | 05 | [pipeline-multiagente-contenido](https://github.com/leopoldogithub/pipeline-multiagente-contenido) | Sistema multi-agente que automatiza creación y publicación en YouTube e Instagram | ⏳ Próximo | Python, LangGraph, MCP, n8n |
+| 06 | [pipeline-multiagente-contenido](https://github.com/LeopoldoGitHub/OpIntel-ML-NLP.git) | Pipeline de Inteligencia Operativa con RAG de dos etapas (ChromaDB + Cross-Encoder) y Fine-Tuning LoRA para reducción del MTTR en activos industriales. |Completo | Python, HuggingFace, ChromaDB |
 
 ## 🧠 Stack tecnológico
 
